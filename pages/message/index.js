@@ -4,7 +4,7 @@ https://firebase.google.com/docs/firestore/query-data/queries?hl=ja
 
 */
 
-const mypage = () => {
+const message = () => {
    return (
       <div>
          {/*"・フッターメニュー・ユーザー・"*/}
@@ -14,4 +14,4 @@ const mypage = () => {
    );
 }
 
-export default mypage;
+export default message;
