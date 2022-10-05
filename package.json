@@ -2,6 +2,9 @@
   "name": "sns",
   "version": "0.1.0",
   "private": true,
+  "_comment3": {
+    "comment": "npm next devはよく使う"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
