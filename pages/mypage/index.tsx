@@ -1,7 +1,9 @@
 /*"・ユーザー情報編集	
 "・ユーザー　・ID・名前・最終ログイン日"	
 許可・ログインユーザー*/
-const users = () => {
+import * as React from "react";
+
+const mypage = () => {
    return (
       <div>
          {/*"・フッターメニュー・ユーザー・"*/}
@@ -11,4 +13,4 @@ const users = () => {
    );
 }
 
-export default users;
+export default mypage;

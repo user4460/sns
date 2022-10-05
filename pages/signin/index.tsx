@@ -1,7 +1,7 @@
 /*"・IDパスワードログイン・Googleログイン"	
 "・ユーザーID（半角英数4文字以上ユニーク）・パスワード（半角英数8文字以上）"	
 ・非ログインユーザー */
-
+import * as React from "react";
 import Link from 'next/link';
 
 const signin = () => {

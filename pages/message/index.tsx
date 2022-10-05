@@ -1,7 +1,11 @@
-/*"・ユーザー情報編集	
-"・ユーザー　・ID・名前・最終ログイン日"	
-許可・ログインユーザー*/
-const mypage = () => {
+/*
+メッセージルーム
+https://firebase.google.com/docs/firestore/query-data/queries?hl=ja
+
+*/
+import * as React from "react";
+
+const message = () => {
    return (
       <div>
          {/*"・フッターメニュー・ユーザー・"*/}
@@ -11,4 +15,4 @@ const mypage = () => {
    );
 }
 
-export default mypage;
+export default message;

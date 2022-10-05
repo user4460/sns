@@ -17,6 +17,7 @@ createUserWithEmailAndPassword(auth, email, password)
    });
 */
 
+import * as React from "react";
 
 const signup = () => {
    return (
