@@ -5,6 +5,14 @@ https://firebase.google.com/docs/firestore/query-data/queries?hl=ja
 */
 import * as React from "react";
 
+/*
+exports.createUser = functions.firestore
+    .document('users/{userId}')
+    .onCreate((snap, context) => {
+      firebase.firestore().collection('chatrooms').add({
+      })
+});
+*/
 const message = () => {
    return (
       <div>
