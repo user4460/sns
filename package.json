@@ -1,10 +1,11 @@
 {
+  "_comment": {
+    "comment": "package.jsonとは、npmパッケージの設定ファイルです。"
+    "参考": "https://docs.npmjs.com/cli/v7/configuring-npm/package-json"
+  },
   "name": "sns",
   "version": "0.1.0",
   "private": true,
-  "_comment3": {
-    "comment": "npm next devはよく使う"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
