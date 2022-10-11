@@ -1,0 +1,4 @@
+#eslintrcとは、ESLintの設定ファイルのこと
+#ESLintは、JavaScriptのコードを静的解析するツール
+
+extends: "next/core-web-vitals"
