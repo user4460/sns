@@ -4,15 +4,15 @@ import Link from "next/link";
 const Listlink = () => {
   return (
     <>
-      <Link href="/mypage">
+      <Link href="/auth/mypage">
         <a>mypage</a>
       </Link>
       <br></br>
-      <Link href="/signin">
+      <Link href="/auth/signin">
         <a>singin</a>
       </Link>
       <br></br>
-      <Link href="/signup">
+      <Link href="/auth/signup">
         <a>signup</a>
       </Link>
       <br></br>

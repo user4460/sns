@@ -1,6 +1,6 @@
 {
   "_comment": {
-    "comment": "package.jsonとは、npmパッケージの設定ファイルです。"
+    "comment": "package.jsonとは、npmパッケージの設定ファイルです。",
     "参考": "https://docs.npmjs.com/cli/v7/configuring-npm/package-json"
   },
   "name": "sns",
