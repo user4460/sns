@@ -1,3 +1,4 @@
+//requiresとは、別のファイルを読み込むときに使う
 const functions = require("firebase-functions");
 
 // // Create and Deploy Your First Cloud Functions
