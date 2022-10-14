@@ -8,3 +8,8 @@ const functions = require("firebase-functions");
 //   functions.logger.info("Hello logs!", {structuredData: true});
 //   response.send("Hello from Firebase!");
 // });
+
+// // The Firebase Admin SDK to access the Firebase Realtime Database.
+const admin = require("firebase-admin");
+admin.initializeApp();
+   
