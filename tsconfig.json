@@ -2,7 +2,6 @@
 {
   "コメント": {
     "コメント": "このファイルには、TypeScriptのコンパイル時の設定を記述します。このファイルは、TypeScriptのコンパイル時に読み込まれます。",
-    "参考": "https://www.typescriptlang.org/ja/tsconfig"
   },
   /*    
       分からないのでコパイロットの自動生成、
