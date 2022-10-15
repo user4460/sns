@@ -13,6 +13,9 @@ exports.createUser = functions.firestore
       })
 });
 */
+
+//トークルームを作成する
+
 const message = () => {
    return (
       <div>
