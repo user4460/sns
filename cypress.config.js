@@ -2,7 +2,7 @@
 const { defineConfig } = require('cypress')
 
 module.exports = defineConfig({
-  projectId: 'uvba4u',
+  projectId: 'xh8w3d',
   
   e2e: {
     baseUrl: 'http://localhost:3000'
