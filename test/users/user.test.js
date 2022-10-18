@@ -1,6 +1,3 @@
-//cloud functions のテスト
-//firebase functions:config:get > .runtimeconfig.json 
-
 /*
 describe("todoを作成する", () => {
    const email = "test@example.com";
